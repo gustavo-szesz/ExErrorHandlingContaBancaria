@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExErrorHandlingContaBancaria", "ExErrorHandlingContaBancaria\ExErrorHandlingContaBancaria.csproj", "{0358618F-6F14-42E9-988F-87F07CF0C7BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0358618F-6F14-42E9-988F-87F07CF0C7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0358618F-6F14-42E9-988F-87F07CF0C7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0358618F-6F14-42E9-988F-87F07CF0C7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0358618F-6F14-42E9-988F-87F07CF0C7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8177875-2DD7-4933-8BEF-1B1CA0E467B9}
+	EndGlobalSection
+EndGlobal
