@@ -1,5 +1,6 @@
 # ExErrorHandlingContaBancaria
 
+
 ## Descrição
 Este projeto é um exemplo de tratamento de exceções em operações bancárias utilizando C# e .NET 8.0. O objetivo principal é criar um sistema robusto para lidar com erros comuns em contas bancárias, como números de conta inválidos e titulares não informados.
 
@@ -55,3 +56,5 @@ Execute os testes utilizando o NUnit:
   ```bash
   dotnet test
 ```
+
+## Dia 2 programando continuamente até conseguir um emprego na área.
