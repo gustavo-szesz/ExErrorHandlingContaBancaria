@@ -10,9 +10,7 @@
         /// <summary>
         /// Creates a new instance of <see cref="ContaInvalidaException"/> with a default message.
         /// </summary>
-        public ContaInvalidaException() : base(DefaultMessage)
-        {
-        }
+        public ContaInvalidaException() : base(DefaultMessage){}
 
         /// <summary>
         /// Creates a new instance of <see cref="ContaInvalidaException"/> with a custom message.
