@@ -57,4 +57,3 @@ Execute os testes utilizando o NUnit:
   dotnet test
 ```
 
-## Dia 2 programando continuamente até conseguir um emprego na área.
